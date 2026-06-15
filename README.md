@@ -1,2 +1,2 @@
 # Tailwind-CSS
-Learning Tailwind CSS to up lift my Fronted Dev. Skills
+Learning Tailwind CSS to uplift my Fronted Dev. Skills
